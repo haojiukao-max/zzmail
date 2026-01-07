@@ -20,9 +20,9 @@
     "failed": "失败",
     "unknown": "未知",
     "empty": "暂无数据",
-    "blog": "美国地址",
-    "youtube": "接码平台",
-    "xugouMonitor": "MD5解密",
+    "blog": "博客",
+    "youtube": "油管频道",
+    "xugouMonitor": "xugou监控",
     "privacyPolicy": "隐私政策",
     "terms": "使用条款",
     "about": "关于我们"
@@ -199,14 +199,14 @@
       "title": "7. 条款变更",
       "item1": "我们有权根据需要随时修改本使用条款，变更内容将在页面显著位置公告。"
     },
-    "conclusion": "感谢您使用临时邮箱服务！"
+    "conclusion": "感谢您使用zmail临时邮箱服务！"
   },
   "about": {
     "title": "关于我们",
-    "subtitle": "了解临时邮箱服务的背景和理念。",
+    "subtitle": "了解zmail临时邮箱服务的背景和理念。",
     "intro": {
       "title": "项目简介",
-      "content": "满分家园临时邮箱是一个开源的临时邮箱服务，旨在为用户提供安全、便捷的临时电子邮箱解决方案。我们致力于保护用户隐私，避免垃圾邮件的困扰。"
+      "content": "zmail是一个开源的临时邮箱服务，旨在为用户提供安全、便捷的临时电子邮箱解决方案。我们致力于保护用户隐私，避免垃圾邮件的困扰。"
     },
     "features": {
       "title": "核心特性",
@@ -240,7 +240,7 @@
     },
     "tech": {
       "title": "技术架构",
-      "intro": "采用现代化的技术栈构建：",
+      "intro": "zmail采用现代化的技术栈构建：",
       "frontend": {
         "title": "前端",
         "desc": "React + TypeScript + Tailwind CSS"
@@ -261,7 +261,9 @@
     "opensource": {
       "title": "开源信息",
       "intro": "满分家园临时邮箱是一个完全开源的项目，遵循MIT开源协议。我们欢迎社区贡献代码、提出建议或报告问题。",
-      
+      "github": {
+        "title": "GitHub仓库"
+      },
       "license": {
         "title": "许可协议",
         "desc": "MIT License"
@@ -278,11 +280,12 @@
         "title": "GitHub Issues",
         "desc": "在项目仓库中提交Issue"
       },
-     
+      "email": {
+        "title": "邮箱"
       }
     },
     "conclusion": "感谢您选择临时邮箱服务！"
-    }
+    },
   "privacy": {
     "title": "隐私政策",
     "intro": "我们非常重视您的隐私保护。本隐私政策说明了我们如何收集、使用和保护您的信息。",
