@@ -20,9 +20,9 @@
     "failed": "失败",
     "unknown": "未知",
     "empty": "暂无数据",
-    "blog": "博客",
-    "youtube": "油管频道",
-    "xugouMonitor": "xugou监控",
+    "blog": "美国地址生成",
+    "youtube": "接码平台",
+    "xugouMonitor": "MD5解密",
     "privacyPolicy": "隐私政策",
     "terms": "使用条款",
     "about": "关于我们"
@@ -203,10 +203,10 @@
   },
   "about": {
     "title": "关于我们",
-    "subtitle": "了解zmail临时邮箱服务的背景和理念。",
+    "subtitle": "了解临时邮箱服务的背景和理念。",
     "intro": {
       "title": "项目简介",
-      "content": "zmail是一个开源的临时邮箱服务，旨在为用户提供安全、便捷的临时电子邮箱解决方案。我们致力于保护用户隐私，避免垃圾邮件的困扰。"
+      "content": "开源的临时邮箱服务，旨在为用户提供安全、便捷的临时电子邮箱解决方案。我们致力于保护用户隐私，避免垃圾邮件的困扰。"
     },
     "features": {
       "title": "核心特性",
@@ -240,7 +240,7 @@
     },
     "tech": {
       "title": "技术架构",
-      "intro": "zmail采用现代化的技术栈构建：",
+      "intro": "采用现代化的技术栈构建：",
       "frontend": {
         "title": "前端",
         "desc": "React + TypeScript + Tailwind CSS"
