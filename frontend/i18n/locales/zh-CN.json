@@ -278,8 +278,7 @@
         "title": "GitHub Issues",
         "desc": "在项目仓库中提交Issue"
       },
-      "email": {
-        "title": "邮箱"
+     
       }
     },
     "conclusion": "感谢您选择临时邮箱服务！"
