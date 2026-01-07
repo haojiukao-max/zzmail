@@ -41,7 +41,7 @@ const Footer: React.FC<FooterProps> = ({ onShowInfo }) => {
           </div>
           <div className="flex justify-center items-center space-x-4">
             <a
-              href="https://ajielu.vercel.app"
+              href="https://www.shenfendaquan.com"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-primary transition-colors"
@@ -50,7 +50,7 @@ const Footer: React.FC<FooterProps> = ({ onShowInfo }) => {
               {t("common.blog")}
             </a>
             <a
-              href="https://www.youtube.com/@zaunist"
+              href="https://www.zsrq.net"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-primary transition-colors"
@@ -59,7 +59,7 @@ const Footer: React.FC<FooterProps> = ({ onShowInfo }) => {
               {t("common.youtube")}
             </a>
             <a
-              href="https://xugou.mdzz.uk"
+              href="https://www.md5x.com"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-primary transition-colors"
