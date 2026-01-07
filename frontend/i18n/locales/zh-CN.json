@@ -206,7 +206,7 @@
     "subtitle": "了解临时邮箱服务的背景和理念。",
     "intro": {
       "title": "项目简介",
-      "content": "zmail是一个开源的临时邮箱服务，旨在为用户提供安全、便捷的临时电子邮箱解决方案。我们致力于保护用户隐私，避免垃圾邮件的困扰。"
+      "content": "满分家园临时邮箱是一个开源的临时邮箱服务，旨在为用户提供安全、便捷的临时电子邮箱解决方案。我们致力于保护用户隐私，避免垃圾邮件的困扰。"
     },
     "features": {
       "title": "核心特性",
@@ -240,7 +240,7 @@
     },
     "tech": {
       "title": "技术架构",
-      "intro": "zmail采用现代化的技术栈构建：",
+      "intro": "采用现代化的技术栈构建：",
       "frontend": {
         "title": "前端",
         "desc": "React + TypeScript + Tailwind CSS"
@@ -261,9 +261,7 @@
     "opensource": {
       "title": "开源信息",
       "intro": "满分家园临时邮箱是一个完全开源的项目，遵循MIT开源协议。我们欢迎社区贡献代码、提出建议或报告问题。",
-      "github": {
-        "title": "GitHub仓库"
-      },
+      
       "license": {
         "title": "许可协议",
         "desc": "MIT License"
