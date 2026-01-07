@@ -11,8 +11,8 @@ interface SEOProps {
 }
 
 const SEO: React.FC<SEOProps> = ({
-  title = 'ZMAIL-24小时匿名邮箱',
-  description = '创建临时邮箱地址，接收邮件，无需注册，保护您的隐私安全',
+  title = '满分家园',
+  description = '十分钟临时邮箱地址，24小时临时邮箱，无需注册，保护您的隐私安全',
   keywords = '临时邮箱,匿名邮箱,一次性邮箱,隐私保护,电子邮件,ZMAIL',
   ogImage = '/og-image.jpg',
   ogType = 'website',
