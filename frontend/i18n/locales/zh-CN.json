@@ -246,10 +246,6 @@
         "desc": "React + TypeScript + Tailwind CSS"
       },
       "backend": {
-        "title": "后端",
-        "desc": "Honojs + CloudFlare Worker"
-      },
-    "conclusion": "感谢您选择临时邮箱服务！"
     },
   "privacy": {
     "title": "隐私政策",
