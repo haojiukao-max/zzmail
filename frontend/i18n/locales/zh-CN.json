@@ -259,6 +259,31 @@
       }
     },
     "opensource": {
+      "title": "开源信息",
+      "intro": "满分家园临时邮箱是一个完全开源的项目，遵循MIT开源协议。我们欢迎社区贡献代码、提出建议或报告问题。",
+      "github": {
+        "title": "GitHub仓库"
+      },
+      "license": {
+        "title": "许可协议",
+        "desc": "MIT License"
+      },
+      "contribute": {
+        "title": "贡献指南",
+        "desc": "欢迎提交Pull Request和Issue"
+      }
+    },
+    "contact": {
+      "title": "联系我们",
+      "intro": "如果您在使用过程中遇到问题，或者有任何建议和反馈，欢迎通过以下方式联系我们：",
+      "github": {
+        "title": "GitHub Issues",
+        "desc": "在项目仓库中提交Issue"
+      },
+      "email": {
+        "title": "邮箱"
+      }
+    },
     "conclusion": "感谢您选择临时邮箱服务！"
     },
   "privacy": {
