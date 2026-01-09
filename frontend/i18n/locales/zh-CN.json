@@ -249,15 +249,6 @@
         "title": "后端",
         "desc": "Honojs + CloudFlare Worker"
       },
-      "email": {
-        "title": "邮件服务",
-        "desc": "基于 CloudFlare 邮件服务提供免费临时邮箱，稳定可靠"
-      },
-      "storage": {
-        "title": "数据存储",
-        "desc": "内存存储，定时清理"
-      }
-    },
     "conclusion": "感谢您选择临时邮箱服务！"
     },
   "privacy": {
