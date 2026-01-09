@@ -52,7 +52,7 @@ const AboutPage: React.FC = () => {
         <p>{t('about.contact.intro')}</p>
         <ul>
           <li><strong>{t('about.contact.github.title')}</strong>：{t('about.contact.github.desc')}</li>
-          <li><strong>{t('about.contact.email.title')}</strong>：y.haojiukao@gmail.com</li>
+          <li><strong>{t('about.contact.email.title')}</strong>：haojiukao@gmail.com</li>
         </ul>
         
         <p className="text-center mt-10">{t('about.conclusion')}</p>
