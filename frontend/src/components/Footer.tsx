@@ -59,7 +59,7 @@ const Footer: React.FC<FooterProps> = ({ onShowInfo }) => {
               {t("common.youtube")}
             </a>
             <a
-              href="https://www.md5x.com"
+              href="https://beian.miit.gov.cn/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-primary transition-colors"
